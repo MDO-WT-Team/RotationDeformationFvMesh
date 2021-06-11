@@ -1,7 +1,7 @@
 # RotationDeformationFvMesh
 DynamicFvMesh solver for rotation and deformation of a mesh for solids4Foam
 
-# Requesites
+# Requisites
 1) Foam extend 4.0 : https://openfoamwiki.net/index.php/Installation/Linux/foam-extend-4.0
 3) solids4Foam : https://bitbucket.org/philip_cardiff/solids4foam-release/src/master/
 
